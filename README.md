@@ -37,6 +37,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## genkit
 
+To use the genkit functionality, run the following command:
+
 ```bash
 npx genkit start -- npx tsx src/app/genkit.ts
 ```
